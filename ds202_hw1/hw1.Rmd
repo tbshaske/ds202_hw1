@@ -1,0 +1,42 @@
+---
+title: "hw1.Rmd"
+author: Taylor Shaske
+github username: tbshaske
+output: html_document
+---
+
+2. Data Science is turning data into information using algorithms, charts, and graphs. It's used to compare data to help us find information that can be useful for businesses like Instagram and Google for example. You can use it to help predict the best retail location or get data on what is most searched for and then use that to recommend ads and products. This image illustrates the **percentage of winning** in an election.
+<<https://revolution-computing.typepad.com/.a/6a010534b1db25970b017ee4d81fe1970d-800wi>>
+```{r}
+version
+```
+5. git version 2.20.1.windows.1
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+7. github username: tbshaske
