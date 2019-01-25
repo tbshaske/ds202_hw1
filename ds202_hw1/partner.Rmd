@@ -1,0 +1,14 @@
+---
+title: "partner.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Partner's name: Taylor Shaske
+Partner's github username: tbshaske
+Partner's last commit: added hw1.Rmd and hw1.html
+commit ID: 454e5da1de5d49cc2cd544e46713071040b94e45
+tip: github includes commit ID so you don't have to use the terminal to find it.
